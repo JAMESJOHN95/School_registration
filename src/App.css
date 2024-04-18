@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5Vtj5mOMj63tdRh6a2xSUOZIhKCOiJFGm-CnRnZ0oQ&s";
+}
+.formbg{
+    background-color: paleturquoise;
+}
